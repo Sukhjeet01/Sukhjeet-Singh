@@ -1,0 +1,172 @@
+body
+{
+  margin: 0;
+text-align: center;
+color: #40514E;
+/* font-family: 'Merriweather', serif; */
+}
+
+
+.top-container
+{
+  background-color: #161616;
+  position: relative;
+  padding-top:100px;
+  padding-bottom: 100px;
+
+}
+.top-cloud
+{
+  position: absolute;
+  top: 50px;
+  right: 250px;
+
+}
+.bottom-cloud
+{
+  position:absolute;
+  left: 300px;
+  bottom:400px;
+}
+h1
+{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color:#66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #EAF6F6;
+
+}
+p
+{
+  line-height: 2;
+
+}
+
+.top-container h2
+{
+  font-weight: normal;
+}
+.middle-container
+{
+  padding: 100px 0;
+
+}
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+.skill-row
+{
+  width: 50%;
+  margin: 80px auto 80px auto;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.gif1
+{
+  height: 25%;
+  width: 25%;
+  border-radius:100px;
+  float: left;
+  margin-right: 30px;
+
+}
+.gif2
+{
+  height: 25%;
+  width: 25%;
+  border-radius:100px;
+  float: right;
+  margin-left: 30px;
+
+}
+.bold
+{
+  font-weight: bolder;
+}
+.forp1
+{
+  font-size: 1rem;
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+  font-size: 1.2rem;
+}
+.contact-message
+{
+  font-size: 1.2rem;
+}
+.copyright
+{
+  color: #EAf6f6;
+  padding: 20px 0;
+
+}
+.btn
+{
+  background-color:#11999E;
+
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 12px;
+      text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 10px;
+}
+
+.btn:hover {
+   /* border: solid #337FED 1px; */
+   background: #2bc4ad ;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+
+
+
+.footer-linkedin
+{
+  color: #11999E;
+
+}
+hr
+{
+  width: 10%;
+  border-top: 8px dotted gray;
+  margin-top: 20px;
+}
